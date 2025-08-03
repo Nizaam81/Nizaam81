@@ -92,21 +92,6 @@ I enjoy working across the stack, solving problems, and turning ideas into reali
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nizaam81&theme=calm&margin-w=10&no-frame=true&title=Commits,Repositories,Followers,PullRequest,Issues,Stars" />
-</p>
-
----
-
-## 📈 GitHub Activity & Contributions
-
-### 🔥 Contribution Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Nizaam81&theme=default&hide_border=true&stroke=blue&ring=0366D6" />
-</p>
-
 ### 📊 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nizaam81&theme=github-light&area=true&hide_border=true&color=0366D6" />
