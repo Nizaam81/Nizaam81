@@ -1,74 +1,47 @@
-<!-- Animated Header Typing -->
+<!-- Typing Header Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I'm+Muhammed+Nizamudheen+K;Full-stack+Web+Developer;MERN+Stack+Enthusiast;Always+learning+new+things&center=true&width=500&height=45&color=00ffff&vCenter=true&size=20" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I'm+Muhammed+Nizamudheen+K;Full-Stack+Web+Developer;MERN+Stack+Specialist;Tech+Explorer+%7C+Backend+Enthusiast;Always+Learning+%F0%9F%92%AB&center=true&width=850&height=45&color=00f0ff&vCenter=true&size=22" />
 </p>
 
----
-
-<h3 align="center">🚀 Passionate Developer | Problem Solver | Tech Explorer</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nizaam81&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Nizaam81" />
-</p>
-
----
-
-## ✨ About Me
-
-Hi! I'm Muhammed Nizamudheen from Kochi, India — a curious and consistent full-stack developer. I enjoy working across the stack, solving problems, and turning ideas into reality with efficient code.
-
-- 🔭 Building real-world apps using the **MERN Stack**
-- 💬 Ask me about **Node.js**, **REST APIs**, and **backend logic**
-- 🧠 Focused on clean architecture, scalability, and developer experience
-- 🤝 Open to collaborations, internships, and side projects
-
----
-
-## 🛠 Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,tailwind,git,github,vscode,figma" />
-</div>
-
----
-
-## 📊 GitHub Activity
+<!-- Subheading -->
+<h3 align="center">💻 Developer | 🧠 Problem Solver | 🌱 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nizaam81&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nizaam81&theme=radical&hide_border=true" width="48%" />
+  <img src="https://komarev.com/ghpvc/?username=Nizaam81&label=Profile+Views&color=0e75b6&style=flat-square" alt="profile views" />
 </p>
 
 ---
 
-## 🚀 Goals
+## 🧠 About Me
 
-- 🔧 Become job-ready in backend and full-stack development
-- 🌍 Contribute to open-source and developer communities
-- 📦 Build scalable projects that solve real problems
-- 📘 Stay consistent with learning & tech updates
+```yaml
+name: Muhammed Nizamudheen K
+location: Kochi, India 🇮🇳
+focus: Full-Stack Web Development (MERN Stack)
+goal: Build scalable applications and grow as a backend-focused engineer
+status: Actively learning, building, and open to collaboration
+⚙️ Tech Stack & Tools
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,postgres,mysql,sqlite,html,css,tailwind" /><br/> <img src="https://skillicons.dev/icons?i=figma,postman,git,github,vscode,linux,vercel,netlify" /> </p> <!-- Eraser Manual Icon (not supported by skillicons) --> <p align="center"> <img src="https://img.shields.io/badge/Eraser.io-diagramming-4E91F9?style=flat-square&logoColor=white" /> </p>
 
----
 
-## 🌐 Connect with Me
+📈 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nizaam81&show_icons=true&theme=radical&hide_border=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nizaam81&theme=radical&hide_border=true" width="48%" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nizaam81&theme=radical" width="98%" /> </p>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/Nizaam81" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:nizaam81@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
 
----
+🎯 2025 Goals
+🧠 Deepen backend systems knowledge and database design
 
-## 💬 Favorite Quote
+📦 Build and scale 5+ real-world full-stack projects
 
-> “Don’t aim for perfection. Aim for progress.”
+🌍 Contribute to open-source projects or communities
 
----
+💼 Land a developer role where I can grow & make an impact
 
+
+
+<p align="center"> <a href="mailto:mnizamudheen81@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="[https://www.linkedin.com/in/Nizaam81](https://www.linkedin.com/in/nizam-software)" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://instagram.com/nizx_m_" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p>
+
+
+
+
+<p align="center"> <em>"First solve the problem, then write the code." – John Johnson</em> </p> <!-- Footer Wave Animation --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" /> </p> ```
