@@ -71,24 +71,10 @@ I enjoy working across the stack, solving problems, and turning ideas into reali
 
 ---
 
-## 💬 Favorite Quote
-
-> “Don’t aim for perfection. Aim for progress.”
-
----
 
 
 
 
-
-
-
-
-
-<!-- Profile Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammed+Nizamudheen+K;Full-stack+Web+Developer;MERN+Stack+Specialist;Open+Source+Contributor;Tech+Explorer+%F0%9F%9A%80" />
-</p>
 
 ---
 
@@ -99,10 +85,17 @@ I enjoy working across the stack, solving problems, and turning ideas into reali
 
 ---
 
-## 📚 GitHub Stats
+## 📚 GitHub Status
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nizaam81&show_icons=true&theme=default&hide_border=true&title_color=0366D6&icon_color=0366D6" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nizaam81&layout=compact&theme=default&hide_border=true&title_color=0366D6" width="48%" />
 </p>
 
+
+
+## 💬 Favorite Quote
+
+> “Don’t aim for perfection. Aim for progress.”
+
+---
