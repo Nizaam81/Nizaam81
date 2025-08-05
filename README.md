@@ -19,8 +19,6 @@ Hi! I'm **Muhammed Nizamudheen** from **Kochi, India** — a curious and consist
 I enjoy working across the stack, solving problems, and turning ideas into reality with efficient code.
 
 - 🔭 Building real-world apps using the **MERN Stack**
-- 💬 Ask me about **Node.js**, **REST APIs**, and **backend logic**
-- 🧠 Focused on clean architecture, scalability, and developer experience
 - 🤝 Open to collaborations, internships, and side projects
 
 ---
